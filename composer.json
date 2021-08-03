@@ -33,7 +33,7 @@
         }
     },
     "require": {
-        "php": ">= 7.1",
+        "php": ">= 7.4",
         "ext-json": "*",
         "php-http/client-common": "^1.9 || ^2.0",
         "php-http/client-implementation": "^1.0",
